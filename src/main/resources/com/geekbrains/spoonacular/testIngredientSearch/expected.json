@@ -1,0 +1,17 @@
+{
+  "results": [
+    {
+      "id": 6164,
+      "name": "salsa",
+      "image": "salsa.png"
+    },
+    {
+      "id": 27028,
+      "name": "salsa verde",
+      "image": "salsa-verde.png"
+    }
+  ],
+  "offset": 0,
+  "number": 10,
+  "totalResults": 2
+}
